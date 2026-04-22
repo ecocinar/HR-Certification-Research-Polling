@@ -20,4 +20,4 @@ An annual poll tracking which HR certification(s) professionals find most credib
 • Time Series — Multi-year consolidated view with vote counts, percentages, and rankings
 • Chart — Visualization tab
 • Notes — This sheet
-<img width="801" height="384" alt="image" src="https://github.com/user-attachments/assets/fc0336b2-2d49-4521-b47c-133395121cc3" />
+
